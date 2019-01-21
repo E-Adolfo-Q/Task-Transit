@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  margin-top: 30px;  
+}
+
+.rowUI{ 
+  padding-left: 40px;
+  padding-right:30px;
+}
+
+.listCodRoute{
+  border: 1px solid #000;
+}
+
+.title{
+  color:#000;
+  font-size: 18px ;
+  text-align: left;
+}
+
+.containerSidebar{ 
+  padding: 15px;
+  width: 350px;
+  height: 600px;
+}
+
+.menuItem{
+  text-align: center;
+  overflow-y: scroll;
+  height: 450px;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.menuItem > li {
+  list-style-type: none;
+  margin-bottom: 7px;
+}
+
+.menuItem > li > a{
+  color:black;  
+  text-decoration: none; 
+}
+
